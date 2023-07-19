@@ -532,35 +532,35 @@ right: 50px;
    width: 100%;
    margin: auto;
 }
-.game-title {
+.symon {
    padding: 30px;
 }
-.sponsors {
+.rakib {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
    padding: 0;
    margin: 30px;
    gap: 4px;
 }
-.sponsor img {
+.margin {
     width: 30%;
 }
-.sponsor p {
+.facts{
    font-size: 10px;
 }
-.footer-ancor{
+.last{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 5px;
     margin-top: 25px;
 }
-.footer-btm{
+.first-side{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 5px;
     margin-top: 25px;
 }
-.list-item{
+.img000{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 5px;
